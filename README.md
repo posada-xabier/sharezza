@@ -1,2 +1,2 @@
 # sharezza
-Exercise for the Wild 
+Github Exercise for the Wild 
